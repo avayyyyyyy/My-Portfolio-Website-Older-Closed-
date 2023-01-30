@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/shapelined-K9QHL52rE2k-unsplash.jpg") top right no-repeat;
+  background: #040404 url("https://github.com/avayyyyyyy/My-Portfolio-Website/blob/main/assets/img/shapelined-K9QHL52rE2k-unsplash.jpg") top right no-repeat;
   background-size: 100%; 
   background-size: cover;
   left: 0;
